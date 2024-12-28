@@ -1,0 +1,31 @@
+[
+   {
+        "name":"Pavlo",
+        "surname":"Zibrov",
+        "foto":"https://i.ibb.co/bKTtJ9s/6.jpg",
+        "job":[
+            "prodasha trachtoriv",
+            "spivak",
+            "programer"
+        ]
+    },
+    {
+        "name":"Kaplia",
+        "surname":"Bybasan",
+        "foto":"https://i.ibb.co/Dt37gmd/center.jpg",
+        "job":[
+            "mexanick",
+            "voditel"
+       
+        ] 
+    },
+   {
+        "name":"Vasia",
+        "surname":"Tractor",
+        "foto":"https://i.ibb.co/C133Rb1/5359630603269561573.jpg",
+        "job":[
+            "kypivlia trachtoriv"
+
+        ] 
+    }
+]
