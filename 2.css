@@ -15,3 +15,10 @@ img{
     height: 200px;
     top: 200px;
 }
+.modal-title{
+    color: black;
+}
+.sw{
+    color: black;
+    font-size: 20px;
+}
